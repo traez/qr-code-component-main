@@ -1,0 +1,11 @@
+:root {
+    background: hsl(210, 69%, 89%);
+  }
+#codeCompoMain { 
+    font-size: 11px; 
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    background: hsl(0, 100%, 100%);
+}
+#microMin a { color: hsl(252, 100%, 1%); }
