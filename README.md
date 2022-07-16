@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/traez/qr-code-component-main](https://github.com/traez/qr-code-component-main)
 - Live Site URL: [https://traez.github.io/qr-code-component-main/](https://traez.github.io/qr-code-component-main/)
 
 ## My process
@@ -57,8 +57,8 @@ Please see Acknowledgement section.
 
 ## Acknowledgments
 
-1 Solomon Ekrebe, for introducing me to frontendmentor.io
-2 Tech content creators on YouTube; my teachers :-)
-3 SlackOverFlow community; for debugging me
-4 w3schools.com, MDN and Google Search Teachers
-4 Novare Central for work station provision.
+1 Solomon Ekrebe, for introducing me to frontendmentor.io  
+2 Tech content creators on YouTube; my teachers :-)  
+3 SlackOverFlow community; for debugging me  
+4 w3schools.com, MDN and Google Search Teachers  
+4 Novare Central for work station provision.  
